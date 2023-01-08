@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KyawSoeThiha
+- 👋 Hi, I’m @KThiha
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on DevOps
